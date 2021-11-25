@@ -1,2 +1,2 @@
 # Test_Repo
-repo for testing GitHub
+Smart_Home_Code
